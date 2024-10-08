@@ -7,7 +7,7 @@ body {
 }
 
 #logo { 
-	background: url(C:\Users\rudya\OneDrive\Escritorio\Caso_ProyectoWeb_Agencia\img\logo.png) no-repeat right; 
+	background: url(../img/logo.png) no-repeat right; 
 	margin: 0 0px;
 	background-size: 60%;
 	padding: 25em 0em 5em 0em;
